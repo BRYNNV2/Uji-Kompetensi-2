@@ -5,15 +5,15 @@ Uji Kompetensi Akhir Praktikum – Pemrograman Web
 Semester Ganjil 2025/2026
 
 ## Anggota Kelompok
-- **Azmi Novi Athaya**: 2301020001
-- **Cahyadi Prasetyo**: 2301020005
-- **Syawal Rizal Utama**: 2301020008
-- **Ezzy Auriel Syach Lie**: 2301020011
-- **Rusydi Ardani**: 2301020037
-- **Fadhillah Nanda Maulana**: 2301020088
-- **Roy Adiyta**: 2301020093
-- **Mhd Febri Yansah**: 2301020104
-- **Khairul Ilham**: 2301020111
+1. **Azmi Novi Athaya**: 2301020001
+2. **Cahyadi Prasetyo**: 2301020005
+3. **Syawal Rizal Utama**: 2301020008
+4. **Ezzy Auriel Syach Lie**: 2301020011
+5. **Rusydi Ardani**: 2301020037
+6. **Fadhillah Nanda Maulana**: 2301020088
+7. **Roy Adiyta**: 2301020093
+8. **Mhd Febri Yansah**: 2301020104
+9. **Khairul Ilham**: 2301020111
 
 ## Deskripsi Proyek
 Proyek ini merupakan aplikasi **Sistem Kuisioner Akademik** berbasis web yang dikembangkan sebagai bagian dari **Uji Kompetensi Akhir Praktikum Mata Kuliah Pemrograman Web**.
