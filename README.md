@@ -10,7 +10,7 @@ Semester Ganjil 2025/2026
 3. **Syawal Rizal Utama**: 2301020008
 4. **Ezzy Auriel Syach Lie**: 2301020011
 5. **Rusydi Ardani**: 2301020037
-6. **Oktavia Wahyu Ramadhan**: 2301020043
+6. **Oktaviandra Wahyu Ramadhan**: 2301020043
 7. **Fadhillah Nanda Maulana**: 2301020088
 8. **Roy Adiyta**: 2301020093
 9. **Mhd Febri Yansah**: 2301020104
