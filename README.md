@@ -58,7 +58,7 @@ Sistem dibangun menggunakan **framework CodeIgniter 4 (CI4)** dan menerapkan kon
 - **Backend**: PHP 8.26
 - **Framework**: CodeIgniter 4
 - **Database**: MySQL / MariaDB
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript,Tailwindcss
 - **Tools**: Composer
 
 ---
