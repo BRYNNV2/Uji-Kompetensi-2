@@ -55,7 +55,7 @@ Sistem dibangun menggunakan **framework CodeIgniter 4 (CI4)** dan menerapkan kon
 ---
 
 ## Teknologi yang Digunakan
-- **Backend**: PHP 8.x
+- **Backend**: PHP 8.26
 - **Framework**: CodeIgniter 4
 - **Database**: MySQL / MariaDB
 - **Frontend**: HTML, CSS, JavaScript
