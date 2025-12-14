@@ -13,7 +13,7 @@ Semester Ganjil 2025/2026
 6. **Fadhillah Nanda Maulana**: 2301020088
 7. **Roy Adiyta**: 2301020093
 8. **Mhd Febri Yansah**: 2301020104
-9. **Khairul Ilham**: 2301020111
+9. **Khairul Ilham**: 2301020111 (**TIDAK ADA KONTRIBUSI**)
 
 ## Deskripsi Proyek
 Proyek ini merupakan aplikasi **Sistem Kuisioner Akademik** berbasis web yang dikembangkan sebagai bagian dari **Uji Kompetensi Akhir Praktikum Mata Kuliah Pemrograman Web**.
