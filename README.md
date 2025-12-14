@@ -67,12 +67,3 @@ Sistem ini menggunakan beberapa tabel utama, antara lain:
 Relasi tabel dirancang untuk mendukung:
 - Pertanyaan berbeda pada setiap periode
 - Riwayat jawaban mahasiswa pada periode yang berbeda
-
----
-
-## Instalasi & Konfigurasi
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/username/nama-repository.git
-cd nama-repository
